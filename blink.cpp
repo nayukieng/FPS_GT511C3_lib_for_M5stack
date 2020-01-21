@@ -18,8 +18,8 @@
               GT-511C1R [ https://www.sparkfun.com/products/13007 ]
 	
 */
-#include <M5Stack.h> 
-#include <FPS_GT511C3.h>
+
+#include "FPS_GT511C3.h"
 
 
 /*-------------------- HARDWARE HOOKUP with 5V Arduino --------------------

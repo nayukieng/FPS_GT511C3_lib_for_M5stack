@@ -43,7 +43,7 @@ to divide the voltage from a 5V Arduino down to 3.3V FPS similar to the
 Note: You can add the two 10kOhm resistors in series for 20kOhms. =)
 --------------------------------------------------------------------------------
 *****************************************************************/
-#include <M5Stack.h>
+
 #include "FPS_GT511C3.h"
 
 
